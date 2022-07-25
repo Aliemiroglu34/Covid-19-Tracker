@@ -2,4 +2,4 @@
 
 A Covid 19 Tracker  Application
 
-<a href="https://imgflip.com/gif/6nttwx"><img src="https://imgflip.com/gif/6nttwx"/></a>
+<img src="https://imgflip.com/gif/6nttwx" alt="Girl in a jacket" width="500" height="600">
